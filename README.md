@@ -4,5 +4,8 @@ If that doesn't make sense to you, don't worry. If you load the page without spe
 
 Example:
 
-`https://docs.google.com/document/d/e/2PACX-1vQfwjMYybecinG3lfzfdpU9ht-oKOVP-6EUZF6c-3kEvywKyzmu0kPvh49-jGyJ6tfSG0DJVMo0oJAt/pub"` becomes
-`https://this-url?docId=2PACX-1vQfwjMYybecinG3lfzfdpU9ht-oKOVP-6EUZF6c-3kEvywKyzmu0kPvh49-jGyJ6tfSG0DJVMo0oJAt`
+    `https://docs.google.com/document/d/e/2PACX-1vQfwjMYybecinG3lfzfdpU9ht-oKOVP-6EUZF6c-3kEvywKyzmu0kPvh49-jGyJ6tfSG0DJVMo0oJAt/pub"`
+
+becomes
+
+    `https://this-url?docId=2PACX-1vQfwjMYybecinG3lfzfdpU9ht-oKOVP-6EUZF6c-3kEvywKyzmu0kPvh49-jGyJ6tfSG0DJVMo0oJAt`

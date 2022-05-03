@@ -49,7 +49,7 @@
       };
       frame.id = "gdocFrame";
       frame.src =
-        "https://docs.google.com/document/d/e/" + docId + "/pub?embedded=true";
+        "https://docs.google.com/document/d/e/" + docId + "/pub?embedded=true" + window.location.hash;
       document.body.appendChild(frame);
     </script>
   </body>
